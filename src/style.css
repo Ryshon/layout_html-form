@@ -1,1 +1,26 @@
-/* styles go here */
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*body{
+    padding: 30px;
+    padding: 20px;
+}*/
+
+fieldset{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    white-space: 120px;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 16px;
+    font-weight: bold;
+}
