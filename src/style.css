@@ -2,15 +2,16 @@ html {
   font-family: "Times New Roman", Times, serif;
 }
 
-fieldset {
-  margin: 20px 0;
+.lable {
+  display: block;
+  margin-bottom: 10px;
 }
 
-input {
-  margin: 10px 0;
+.fieldset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
 
 .title {
   font-size: 16px;
-  font-weight: bold;
 }
